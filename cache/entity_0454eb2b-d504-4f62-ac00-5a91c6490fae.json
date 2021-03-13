@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "de90c053-3524-448d-a9a3-ca524fc79311": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "cb7a6be3-9545-4ccf-91ca-d2966999e1d8"
+        }
+    },
+    "manufacturer": "ST",
+    "name": "M24SR64-Y",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "rfid"
+    ],
+    "type": "entity",
+    "uuid": "0454eb2b-d504-4f62-ac00-5a91c6490fae"
+}

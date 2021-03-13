@@ -1,0 +1,69 @@
+{
+    "MPN": [
+        false,
+        "M24SR64-Y"
+    ],
+    "datasheet": [
+        false,
+        "https://www.st.com/content/ccc/resource/technical/document/datasheet/group3/a5/1d/51/09/f6/13/4f/5b/DM00067892/files/DM00067892.pdf/jcr:content/translations/en.DM00067892.pdf"
+    ],
+    "description": [
+        false,
+        "Dynamic NFC/RFID tag IC with 64-Kbit EEPROM,  NFC Forum Type 4 Tag and I²C interface"
+    ],
+    "entity": "0454eb2b-d504-4f62-ac00-5a91c6490fae",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "ST"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "bc78d24c-ca26-458f-826b-a92ca324c6ad",
+    "pad_map": {
+        "04ac7a75-b417-45b1-b5c9-6e883550999c": {
+            "gate": "de90c053-3524-448d-a9a3-ca524fc79311",
+            "pin": "1dc5c883-9588-4e76-af31-297570c39d4a"
+        },
+        "122635cd-5ea3-42d5-8c67-1371fd145f90": {
+            "gate": "de90c053-3524-448d-a9a3-ca524fc79311",
+            "pin": "8af732c3-4504-42a2-a5d5-afa04aa83079"
+        },
+        "26b473ad-8fbe-4640-bf0b-169061ededd2": {
+            "gate": "de90c053-3524-448d-a9a3-ca524fc79311",
+            "pin": "661cc21e-80e1-498c-97b1-9e140369c3da"
+        },
+        "2b67d97f-f271-448a-97fe-33d9f13b3dc6": {
+            "gate": "de90c053-3524-448d-a9a3-ca524fc79311",
+            "pin": "93985f19-563d-4ddf-bec7-352db9f46ad4"
+        },
+        "3b17f6b4-4794-4a2d-a384-7fbbc416f4fb": {
+            "gate": "de90c053-3524-448d-a9a3-ca524fc79311",
+            "pin": "bca93b70-289f-434d-ac23-1d3d6c280ce0"
+        },
+        "4630934f-b688-468f-8107-7678ac07c6da": {
+            "gate": "de90c053-3524-448d-a9a3-ca524fc79311",
+            "pin": "7e7b7277-165c-4565-adc9-5196b1dacd41"
+        },
+        "5a7902da-b874-47b9-a949-4a96710298a9": {
+            "gate": "de90c053-3524-448d-a9a3-ca524fc79311",
+            "pin": "7eeb4ca1-2e05-424e-9353-3c2d841b8128"
+        },
+        "889890d1-7957-4255-9ce1-576e7d23b7ae": {
+            "gate": "de90c053-3524-448d-a9a3-ca524fc79311",
+            "pin": "51394913-0dba-4f57-a8dd-0d95b901e3cf"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "nfc",
+        "rf"
+    ],
+    "type": "part",
+    "uuid": "cb8ca370-2358-4db5-b81e-8c95e2e1e049",
+    "value": [
+        false,
+        ""
+    ]
+}

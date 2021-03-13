@@ -1,0 +1,60 @@
+{
+    "manufacturer": "ST",
+    "name": "M24SR64-Y",
+    "pins": {
+        "1dc5c883-9588-4e76-af31-297570c39d4a": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "Vcc",
+            "swap_group": 0
+        },
+        "51394913-0dba-4f57-a8dd-0d95b901e3cf": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SDA",
+            "swap_group": 0
+        },
+        "661cc21e-80e1-498c-97b1-9e140369c3da": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "RF_disable",
+            "swap_group": 0
+        },
+        "7e7b7277-165c-4565-adc9-5196b1dacd41": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "AC1",
+            "swap_group": 0
+        },
+        "7eeb4ca1-2e05-424e-9353-3c2d841b8128": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SCL",
+            "swap_group": 0
+        },
+        "8af732c3-4504-42a2-a5d5-afa04aa83079": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "AC0",
+            "swap_group": 0
+        },
+        "93985f19-563d-4ddf-bec7-352db9f46ad4": {
+            "direction": "power_input",
+            "names": [
+                "GND"
+            ],
+            "primary_name": "VSS",
+            "swap_group": 0
+        },
+        "bca93b70-289f-434d-ac23-1d3d6c280ce0": {
+            "direction": "output",
+            "names": [
+                "Interrupt_output"
+            ],
+            "primary_name": "GPO",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "cb7a6be3-9545-4ccf-91ca-d2966999e1d8"
+}

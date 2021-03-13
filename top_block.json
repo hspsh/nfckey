@@ -1,0 +1,138 @@
+{
+    "bom_export_settings": {
+        "concrete_parts": {},
+        "csv_settings": {
+            "columns": [
+                "QTY",
+                "MPN",
+                "value",
+                "manufacturer",
+                "refdes"
+            ],
+            "order": "asc",
+            "sort_column": "refdes"
+        },
+        "orderable_MPNs": {},
+        "output_filename": ""
+    },
+    "buses": {},
+    "components": {
+        "0828c50c-0464-476e-86b9-26020a1c81ab": {
+            "connections": {
+                "de90c053-3524-448d-a9a3-ca524fc79311/7e7b7277-165c-4565-adc9-5196b1dacd41": {
+                    "net": "647d9619-46ed-4bca-a71e-a49c10c5bff9"
+                },
+                "de90c053-3524-448d-a9a3-ca524fc79311/8af732c3-4504-42a2-a5d5-afa04aa83079": {
+                    "net": "7efbff02-e026-48f3-b61c-590c8dfc2300"
+                }
+            },
+            "custom_pin_names": {},
+            "entity": "0454eb2b-d504-4f62-ac00-5a91c6490fae",
+            "group": "00000000-0000-0000-0000-000000000000",
+            "part": "cb8ca370-2358-4db5-b81e-8c95e2e1e049",
+            "pin_names": {},
+            "refdes": "U101",
+            "tag": "e709035d-99a4-44e3-882a-49763b6e86fb",
+            "value": ""
+        },
+        "4f254713-b3d5-491d-ae80-f8907e679d11": {
+            "connections": {
+                "de90c053-3524-448d-a9a3-ca524fc79311/7e7b7277-165c-4565-adc9-5196b1dacd41": {
+                    "net": "7efbff02-e026-48f3-b61c-590c8dfc2300"
+                },
+                "de90c053-3524-448d-a9a3-ca524fc79311/8af732c3-4504-42a2-a5d5-afa04aa83079": {
+                    "net": "864ce48c-35e7-4a3d-8739-f3eb7303508d"
+                }
+            },
+            "custom_pin_names": {},
+            "entity": "0454eb2b-d504-4f62-ac00-5a91c6490fae",
+            "group": "00000000-0000-0000-0000-000000000000",
+            "part": "cb8ca370-2358-4db5-b81e-8c95e2e1e049",
+            "pin_names": {},
+            "refdes": "U102",
+            "tag": "c26918ba-cb12-4560-9882-e5fbb258ef74",
+            "value": ""
+        },
+        "5310f264-2cc3-4bdd-9f69-1d0130fd49ee": {
+            "connections": {
+                "1926ff13-c95b-49f9-937c-35ac08ba9efb/831b482b-82af-40ba-8cc0-5e272f25cc2c": {
+                    "net": "647d9619-46ed-4bca-a71e-a49c10c5bff9"
+                },
+                "1926ff13-c95b-49f9-937c-35ac08ba9efb/97955848-10f4-4667-b838-46f6bb8fe085": {
+                    "net": "7efbff02-e026-48f3-b61c-590c8dfc2300"
+                }
+            },
+            "custom_pin_names": {},
+            "entity": "09952b1f-1221-48ad-896c-4481914e3af2",
+            "group": "00000000-0000-0000-0000-000000000000",
+            "part": "9fd5f60f-b6a7-4b5d-a253-c4be0693e275",
+            "pin_names": {},
+            "refdes": "S101",
+            "tag": "a280e22d-a3e1-445e-a1f8-358676330460",
+            "value": ""
+        },
+        "618bc568-809a-4c97-aede-451820f1fca6": {
+            "connections": {
+                "1926ff13-c95b-49f9-937c-35ac08ba9efb/831b482b-82af-40ba-8cc0-5e272f25cc2c": {
+                    "net": "864ce48c-35e7-4a3d-8739-f3eb7303508d"
+                },
+                "1926ff13-c95b-49f9-937c-35ac08ba9efb/97955848-10f4-4667-b838-46f6bb8fe085": {
+                    "net": "7efbff02-e026-48f3-b61c-590c8dfc2300"
+                }
+            },
+            "custom_pin_names": {},
+            "entity": "09952b1f-1221-48ad-896c-4481914e3af2",
+            "group": "00000000-0000-0000-0000-000000000000",
+            "part": "9fd5f60f-b6a7-4b5d-a253-c4be0693e275",
+            "pin_names": {},
+            "refdes": "S102",
+            "tag": "2b1b0bc9-07fd-4019-8068-0a81c55b84ca",
+            "value": ""
+        }
+    },
+    "group_names": {},
+    "name": "",
+    "net_class_default": "1b6aa31a-a387-416c-b1c8-3a2e039083e5",
+    "net_classes": {
+        "1b6aa31a-a387-416c-b1c8-3a2e039083e5": {
+            "name": "default"
+        }
+    },
+    "nets": {
+        "647d9619-46ed-4bca-a71e-a49c10c5bff9": {
+            "is_power": false,
+            "name": "",
+            "net_class": "1b6aa31a-a387-416c-b1c8-3a2e039083e5",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "7efbff02-e026-48f3-b61c-590c8dfc2300": {
+            "is_power": false,
+            "name": "ANT",
+            "net_class": "1b6aa31a-a387-416c-b1c8-3a2e039083e5",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "864ce48c-35e7-4a3d-8739-f3eb7303508d": {
+            "is_power": false,
+            "name": "",
+            "net_class": "1b6aa31a-a387-416c-b1c8-3a2e039083e5",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        }
+    },
+    "project_meta": {
+        "author": "Norbert 'not7cd' Szulc",
+        "date": "2021-03-13",
+        "project_name": "nfckey2thicc",
+        "project_title": "NFC Key 2 thicc",
+        "rev": "1"
+    },
+    "tag_names": {
+        "2b1b0bc9-07fd-4019-8068-0a81c55b84ca": "1",
+        "a280e22d-a3e1-445e-a1f8-358676330460": "0",
+        "c26918ba-cb12-4560-9882-e5fbb258ef74": "3",
+        "e709035d-99a4-44e3-882a-49763b6e86fb": "2"
+    },
+    "uuid": "471a9e40-95b7-4a18-a408-a26523975bc0"
+}
